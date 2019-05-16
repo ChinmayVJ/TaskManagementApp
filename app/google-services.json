@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541219760480",
+    "firebase_url": "https://your-task-631c8.firebaseio.com",
+    "project_id": "your-task-631c8",
+    "storage_bucket": "your-task-631c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541219760480:android:2c23a0b81e964494",
+        "android_client_info": {
+          "package_name": "com.example.user.officemanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541219760480-j3lh8gq3m1kq7cjsaen6am4mbucmejr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DPmM3scgq9lny_EVv_hEzz3XNG11gmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
